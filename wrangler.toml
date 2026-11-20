@@ -1,5 +1,5 @@
-name = "love-chat"
-main = "src/worker.js"
+name = "love-chat2"
+main = "worker.js"
 compatibility_date = "2025-06-01"
 
 [[durable_objects.bindings]]
