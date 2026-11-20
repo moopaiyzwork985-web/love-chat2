@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "wrangler": "^4.165.0"
+  },
+  "name": "love-chat",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  }
+}
